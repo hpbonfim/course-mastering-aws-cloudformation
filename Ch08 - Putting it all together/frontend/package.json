@@ -14,7 +14,7 @@
     "apollo-client": "^2.6.8",
     "apollo-link": "^1.2.14",
     "aws-appsync-auth-link": "^2.0.2",
-    "aws-appsync-subscription-link": "^2.1.0",
+    "aws-appsync-subscription-link": "^2.4.3",
     "clsx": "^1.1.0",
     "gatsby": "^2.20.12",
     "gatsby-image": "^2.3.1",
