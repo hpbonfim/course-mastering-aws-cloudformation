@@ -13,7 +13,7 @@
     "lodash.find": "^4.6.0",
     "lodash.map": "^4.6.0",
     "middy": "^0.33.2",
-    "middy-reroute": "^2.1.4"
+    "middy-reroute": "^2.5.4"
   },
   "scripts": {
     "build": "webpack-cli",
